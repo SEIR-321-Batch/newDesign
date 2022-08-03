@@ -2,7 +2,7 @@ import React from 'react'
 import Resume from './Resume'
 import ME from '../images/83360261-9D76-4831-8515-40F9D2E9C042.jpeg'
 import Social from './Social'
-import '../header.css'
+import '../styles/header.css'
 
 const Header = () => {
   return (

@@ -5,10 +5,10 @@ import About from './components/About.jsx'
 import Experience from './components/Experience.jsx'
 import Services from './components/Services.jsx'
 import Portfolio from './components/Portfolio.jsx'
-import Testemonials from './components/Testemonials.jsx'
+// import Testemonials from './components/Testemonials.jsx'
 import Footer from './components/Footer.jsx'
 import Contact from './components/Contact.jsx'
-import './App.css';
+import './styles/App.css';
 
 function App() {
   return (
@@ -19,9 +19,9 @@ function App() {
     <Experience />
     <Services />
     <Portfolio />
-    <Testemonials />
-    <Footer />
+    {/* <Testemonials /> */}
     <Contact />
+    <Footer />
     </>
   );
 }
