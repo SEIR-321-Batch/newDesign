@@ -6,6 +6,8 @@ import {FaRegFolderOpen} from 'react-icons/fa'
 import '../styles/about.css'
 
 const About = () => {
+  // let compression = require('compression')
+
   return (
     <section id='about'>
       <h5>Get To Know </h5>
