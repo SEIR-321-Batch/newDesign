@@ -1,4 +1,4 @@
-import React, {useRef} from 'react'
+// import React, {useRef} from 'react'
 import CV from '../images/Resume_PDF_format.pdf'
 
 const Resume = () => {
