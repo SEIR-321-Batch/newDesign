@@ -7,7 +7,7 @@ import Services from './components/Services.jsx'
 import Portfolio from './components/Portfolio.jsx'
 // import Testemonials from './components/Testemonials.jsx'
 import Footer from './components/Footer.jsx'
-import Contact from './components/Contact.jsx'
+// import Contact from './components/Contact.jsx'
 import './styles/App.css';
 
 function App() {
@@ -19,8 +19,6 @@ function App() {
     <Experience />
     <Services />
     <Portfolio />
-    {/* <Testemonials /> */}
-    {/* <Contact /> */}
     <Footer />
     </>
   );
