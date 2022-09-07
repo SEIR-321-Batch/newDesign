@@ -11,7 +11,7 @@ const Portfolio = () => {
 
       <div className="container portfolio_container">
         <article className="portfolio_item">
-          <div className="portfolio_item-image">
+          <div className="portfolio_item-img">
             <img src={IMG1} alt="2048" />
 
             <div className="portfolio_body">
@@ -21,7 +21,7 @@ const Portfolio = () => {
           </div>
         </article>
         <article className="portfolio_item">
-          <div className="portfolio_item-image">
+          <div className="portfolio_item-img">
             <img src={IMG2} alt="2048" />
 
             <div className="portfolio_body">
