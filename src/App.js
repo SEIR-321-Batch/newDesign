@@ -7,20 +7,20 @@ import Services from './components/Services.jsx'
 import Portfolio from './components/Portfolio.jsx'
 // import Testemonials from './components/Testemonials.jsx'
 import Footer from './components/Footer.jsx'
-// import Contact from './components/Contact.jsx'
+import Contact from './components/Contact.jsx'
 import './styles/App.css';
 
 function App() {
   return (
     <>
     <Header />
-
     <Nav />
     <About />
     <Experience />
     <Services />
     <Portfolio />
     <Footer />
+    <Contact />
     </>
   );
 }

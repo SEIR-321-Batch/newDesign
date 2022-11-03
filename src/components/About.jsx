@@ -5,8 +5,9 @@ import {HiUsers} from 'react-icons/hi'
 import {FaRegFolderOpen} from 'react-icons/fa'
 import '../styles/about.css'
 
+// let compression = require('compression')
+
 const About = () => {
-  // let compression = require('compression')
 
   return (
     <section id='about'>
