@@ -14,6 +14,7 @@ function App() {
   return (
     <>
     <Header />
+
     <Nav />
     <About />
     <Experience />
