@@ -45,6 +45,10 @@
         gap: 1.2rem;
     }
 
+    .portfolio_header {
+        margin-top: 40rem;
+    }
+
     .portfolio_body a.btn.button_style {
         margin-left: 6rem;
     }
