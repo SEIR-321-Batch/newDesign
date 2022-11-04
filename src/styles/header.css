@@ -1,6 +1,6 @@
 header {
     height: 100vh;
-    padding-top: 7rem;
+    padding-top: 5rem;
     overflow: hidden;
 
 }
@@ -25,6 +25,7 @@ header {
     position: absolute;
     left: 0;
     bottom: 3rem;
+    
 }
 
 .me {
@@ -56,6 +57,11 @@ header {
     }
     section {
       margin-top: 6rem;
+    }
+
+    .social {
+      margin-bottom: 12rem;
+    
     }
     
   }

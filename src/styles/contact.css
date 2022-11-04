@@ -55,12 +55,33 @@ textarea {
     color: white;
 }
 
+
+
 /* ---------------- medium sized screens --------------------------*/
 @media screen and (max-width: 1024px){
+
     .container.contact_container {
      grid-template-columns: 1fr;
      gap: 2rem;
+     
     }
+
+    .contact_options {
+        margin-top: 2rem;
+        
+    }
+
+    button.btn.btn-primary {
+        margin-left: 7.5rem;
+        margin-bottom: 7rem;
+        
+    }
+
+    .contact_header {
+        margin-top:  32rem;
+    }
+
+  
 }
 
      
@@ -71,5 +92,17 @@ textarea {
    @media screen and (max-width: 600px){
     .container.contact_container {
         width: var(--container-width-sm)
+        }
+
+        .contact_options {
+            margin-top: 2rem;
+            
+        }
+    
+        button.btn.btn-primary {
+
+            margin-left: 7.5rem;
+            margin-bottom: 7rem;
+            
         }
 }
