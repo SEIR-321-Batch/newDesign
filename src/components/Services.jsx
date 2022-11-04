@@ -17,23 +17,23 @@ const Services = () => {
         <ul className="service_list">
           <li>
             <FiCheck className='service_list-icon' />
-            <p>more info</p>
+            <p>Brand Strengthening</p>
           </li>
           <li>
             <FiCheck className='service_list-icon' />
-            <p>more info</p>
+            <p>Visual apealing websites</p>
           </li>
           <li>
             <FiCheck className='service_list-icon' />
-            <p>more info</p>
+            <p>Improve customer interaction</p>
           </li>
           <li>
             <FiCheck className='service_list-icon' />
-            <p>more info</p>
+            <p>UI Schemas</p>
           </li>
           <li>
             <FiCheck className='service_list-icon' />
-            <p>more info</p>
+            <p>AI art with  Midjourney</p>
           </li>
         </ul>
         
@@ -47,23 +47,23 @@ const Services = () => {
         <ul className="service_list">
           <li>
             <FiCheck className='service_list-icon' />
-            <p>more info</p>
+            <p>Google Api's</p>
           </li>
           <li>
             <FiCheck className='service_list-icon' />
-            <p>more info</p>
+            <p>Databases</p>
           </li>
           <li>
             <FiCheck className='service_list-icon' />
-            <p>more info</p>
+            <p>Blog's</p>
           </li>
           <li>
             <FiCheck className='service_list-icon' />
-            <p>more info</p>
+            <p>Portfolio Showcase</p>
           </li>
           <li>
             <FiCheck className='service_list-icon' />
-            <p>more info</p>
+            <p>User Interface</p>
           </li>
         </ul>
         
@@ -77,23 +77,24 @@ const Services = () => {
         <ul className="service_list">
           <li>
             <FiCheck className='service_list-icon' />
-            <p>more info</p>
+            <p>Creating/Maintaining</p>
           </li>
           <li>
             <FiCheck className='service_list-icon' />
-            <p>more info</p>
+            <p>Relational Database
+            </p>
           </li>
           <li>
             <FiCheck className='service_list-icon' />
-            <p>more info</p>
+            <p>Object Oriented Database</p>
           </li>
           <li>
             <FiCheck className='service_list-icon' />
-            <p>more info</p>
+            <p>Hierarchial Database</p>
           </li>
           <li>
             <FiCheck className='service_list-icon' />
-            <p>more info</p>
+            <p>Networking Database with MongoDB</p>
           </li>
         </ul>
         
